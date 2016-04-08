@@ -6,5 +6,5 @@ eureka:
     client:
         registerWithEureka: true
         service-url:
-            defaultZone: http://cna-eureka-server-cpa.cfapps.io/eureka
+            defaultZone: http://cna-eureka-server3-cpa.cfapps.io/eureka
 
